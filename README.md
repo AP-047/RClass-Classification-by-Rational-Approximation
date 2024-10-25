@@ -1,4 +1,3 @@
-![Rational Function](./assets/images/R0_G107_B148.png)
 # Rational Function Classifier
 ![Uni Logo](./assets/images/imp_eqn.png)
 
