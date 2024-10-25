@@ -1,7 +1,6 @@
-![Uni Logo](./assets/images/imp_eqn.png)
 ![Rational Function](./assets/images/R243_G145_B0.png)
-
 # Rational Function Classifier
+![Uni Logo](./assets/images/imp_eqn.png)
 
 ## Project Overview
 This project, Rational Function Classifier, is a group effort aimed at developing a unique classification model based on rational functions. Unlike traditional classifiers (such as neural networks or logistic regression), our approach explores the use of rational function approximations for classifying images. For this project, we are using the MNIST dataset of handwritten digits as a test case to evaluate the effectiveness of this novel classifier.
