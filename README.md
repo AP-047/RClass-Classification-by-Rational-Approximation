@@ -11,4 +11,4 @@ This project is a group effort aimed at developing a unique classification model
 - Document findings, challenges, and insights for potential future applications and improvements.
 
 ## Workflow
-![Workflow1](./assets/images/Workflow.png)
+![Workflow1](./assets/images/Workflow1.png)
